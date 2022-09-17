@@ -11,5 +11,6 @@ public class java_Stdin_and_Stdout2 {
         System.out.println("String: " + str);
         System.out.println("Double: " + d);
         System.out.println("Int: " + i);
+        scan.close();
     }
 }
